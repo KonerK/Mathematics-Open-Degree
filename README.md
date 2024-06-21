@@ -4,4 +4,10 @@ My main interests currently lie in mathematics. At university, my favourite modu
 
 So, the below can serve as guide to getting started with self-teaching mathematics, but mainly is just for me to keep track of my own progress. See The Math Sorcerer on youtube for some great inspiration on self-teaching maths. Most of the below is guided by his content. 
 
-# Act I 
+# Act I - The Fundamentals
+
+1) Discrete Mathematics
+
+2) ('College') Algebra & Trigonometry
+
+3) Proof Writing
