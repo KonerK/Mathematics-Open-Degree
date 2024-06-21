@@ -6,8 +6,8 @@ So, the below can serve as guide to getting started with self-teaching mathemati
 
 # Act I - The Fundamentals
 
-1) Discrete Mathematics
+### Discrete Mathematics
 
-2) ('College') Algebra & Trigonometry
+### ('College') Algebra & Trigonometry
 
-3) Proof Writing
+### 3) Proof Writing
