@@ -1,17 +1,12 @@
 # Mathematics-Open-Degree
 
-I really, really like maths. The below 'guide' is mainly for myself as I attempt to journey through self-learning the mathematics required of anyone who aspires to be a mathematician. A lot of the below is guided by content from the 'The Math Sorcerer' on youtube, so go and see him for great videos on math. The guide is split into two parts: Act 1 serves as the fundamentals in which every mathematician must have a great command over, while Act II dives into rigorous mathematics that is often taught at undergraduate/postgraduate level. 
-
-For those who are similarly obssessed with maths... the below does not serve as a guide to learn the 'whole' of mathematics (which would probably be, sadly, impossible). There are many excluded topics, such as graph theory, optimisation methods, cryptography, topology, which themselves could, and do, have whole books dedicated to them. The idea is that these topics are more specialised, and will most likely draw on the topics described below. 
-While many mathematicians today will spend their lives in the field of graphs and networks, they will likely be highly familiar with what is described below. Not every mathematician, on the other hand, will be well-versed in graphs and networks. A mathematician being unfamiliar with Erdős-Rényi random graphs is much less of a problem than a mathematician not knowing how to solve a quadratic. 
-
-Anyway, if you are reading this and you love maths and are perhaps overwhelmed by how much there is to learn (very much like myself), hopefully the below may give some good places to start, or even just some good books to look at. Also, I'm a massive advocate for self-learning. Dont worry about having to fully know the prerequisites before diving into a certain topic. If you feel as though your trigonometry is shakey, but you really want to see how to learn some calculus, what's stopping you? 
+The below serves as a rough guide to self-learning mathematics. A lot of the below is guided by the content from 'The Math Sorcer' on youtube, so go see him for great math content. Mainly, I am using the below to document my journey through self studying maths, as well as provide insight for others who may similarly want to self-study maths. If you're reading this and aspire to be a mathematician, good luck! I'm rooting for you. 
 
 # Act I - The Fundamentals
 
 ### 1) Fundamental Algebra 
 
-There are lots of great 'basic' algebra books out there, ones of my favourite includes Blitzer's 'College Algebra'.
+There are lots of great 'basic' algebra books out there, ones of my favourite includes Robet Blitzer's 'College Algebra'.
 
 | Books         | Content to Learn |
 | ------------- | ------------- |
@@ -19,16 +14,16 @@ There are lots of great 'basic' algebra books out there, ones of my favourite in
 
 ### 2) Fundamental Trigonometry 
 
-Not a lot of books are dedicated solely to trigonometry, which is a shame. The below books both give a good introduction to trigonometry. 
+Not a lot of books are dedicated solely to trigonometry, which is a shame. Either of the books below both give a good introduction to trigonometry, but I prefer James Stewart's book. 
 
 | Books         | Content to Learn |
 | ------------- | ------------- |
 | 'PreCalculus', Robert Blitzer  | Trigonometric Functions - Analytic Trigonometry - Additional Topics in Trigonometry |
-| 'PreCalculus', James Stewart  | Trigonometric Functions: Unit Circle Approach - Trigonometric Functions: Right Triangle Approach - Analytric Trigonometry  |
+| 'PreCalculus', James Stewart  | Trigonometric Functions: Unit Circle Approach - Trigonometric Functions: Right Triangle Approach - Analytic Trigonometry  |
 
 ### 3) Fundamental Objects in Mathematics (Sets, Functions, Proof)
 
-Discrete Mathematics, to me, feels like an important transition to mathematics at undergraduate level, where the focus lies much less in memorising, and much more in mathematical reasoning and understanding. 
+Discrete Mathematics, to me, feels like an important transition to mathematics at undergraduate level, where the focus lies much less in memorising, and much more in mathematical reasoning and understanding. Here, we essentially want to learn the language of maths. Thorough knowledge of sets, functions, relations will serve you very well. I have highlighted some great books below.
 
 | Books         | Content to Learn |
 | ------------- | ------------- |
@@ -37,5 +32,5 @@ Discrete Mathematics, to me, feels like an important transition to mathematics a
 | 'Discrete Mathematical Structures', Bernard Kolman| Fundamentals - Logic - Counting - Relations & Digraphs |
 | 'How to Prove It', Daniel Velleman | Proof - Mathematical Induction - Number Theory - Infinite Sets |
 
-# Act II - Becoming a Mathematician
+# Act II - Advanced
 
