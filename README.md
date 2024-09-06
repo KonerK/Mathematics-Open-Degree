@@ -1,4 +1,4 @@
-# Mathematics-Open-Degree
+# Journey of Mathematics
 
 The below serves as a rough guide to self-learning mathematics. A lot of the below is guided by the content from 'The Math Sorcer' on youtube, so go see him for great math content. Mainly, I am using the below to document my journey through self studying maths, as well as provide insight for others who may similarly want to self-study maths. If you're reading this and aspire to be a mathematician, good luck! I'm rooting for you. 
 
