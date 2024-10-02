@@ -36,25 +36,5 @@ Much like my 'CS-Open-Degree' repository, this repository marks my attempt to ex
 | 'How to Prove It', Daniel Velleman | Proof, Mathematical Induction, Number Theory, Infinite Sets |
 
 # Act II - Advanced
+Many topics will be added here, including Number Theory, Abstract Algebra, Linear Algebra, Complex Variables, Calculus, Real Analysis, Complex Analysis, Geometry, Probaility & Statistics
 
-### 1) (Introductory Mathematics for University) Algebra, Part 1 - Elementary Number Theory & Rigorous Definitions
-
-### 2) (Introductory Mathematics for University) Algebra, Part 2 - Abstract Algebra
-
-### 3) Linear Algebra
-
-### 4) Complex Variables
-
-### 5) Calculus
-### 2) Introduction to Analytic Geometry
-| Book | Author | Course Content |
-|:--------------------------------------------------------------------------------|:-----------------------------:|:------------------------------------------------------------------------------------------------------|
-| Calculus: Early Transcendentals | James Stewart | **Core Calculus**: Limits & Derivatives, Differentiation Rules, Applications of Differentiation, Integrals, Techniques of Integration, Further Applications of Integration (Arc Length, Surface of Revolution, Probability)           
-
-### 6) Real Analysis
-
-### 7) Complex Analysis
-
-### 8) Geometry
-
-### 9) Probability & Statistics
