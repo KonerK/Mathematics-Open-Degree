@@ -1,7 +1,5 @@
 # Journey of Mathematics
 
-Much like my 'CS-Open-Degree' repository, this repository marks my attempt to explore mathematics. I have structured this learning in much the same way, except material is found through great books rather than great courses! A lot of the below is guided by the content from 'The Math Sorcer' on youtube, so go see him for great math content. Mainly, I am using the below to document my journey through self-studying maths, as well as provide insight for others who may similarly want to self-study maths. If you're reading this and aspire to be a mathematician, good luck! I'm rooting for you. 
-
 # I - The Fundamentals
 
 ### 0) Elementary Math
