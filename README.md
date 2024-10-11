@@ -1,4 +1,4 @@
-# Journey of Mathematics
+# A Journey of Mathematics
 
 # I - The Fundamentals
 
