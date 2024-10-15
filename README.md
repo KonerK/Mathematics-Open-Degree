@@ -1,5 +1,7 @@
 # A Journey of Mathematics
 
+There is no other way to say it: I really, really, really like maths. Akin to my repository on exploring my interests within [computer science][1], so head over to that repository for further insight into the purpose of this repository. Nevertheless, in short, this repository marks my journey into self-studying maths, noting the books and topics to be studied along the way. 
+
 # I - The Fundamentals
 
 ### 0) Elementary Math
@@ -35,4 +37,7 @@
 
 # Act II - Advanced
 Many topics will be added here, including Number Theory, Abstract Algebra, Linear Algebra, Complex Variables, Calculus, Real Analysis, Complex Analysis, Geometry, Probaility & Statistics
+
+
+[1]: https://github.com/KonerK/Computer-Science-Open-Degree
 
