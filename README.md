@@ -35,8 +35,8 @@ There is no other way to say it: I really, really, really like maths. Akin to my
 | 'Discrete Mathematical Structures', Bernard Kolman| Fundamentals,Logic, Counting, Relations & Digraphs |
 | 'How to Prove It', Daniel Velleman | Proof, Mathematical Induction, Number Theory, Infinite Sets |
 
-# Act II - Advanced
-Many topics will be added here, including Number Theory, Abstract Algebra, Linear Algebra, Complex Variables, Calculus, Real Analysis, Complex Analysis, Geometry, Probaility & Statistics
+# II - Advanced
+I have many topics to add here. This includes Number Theory, Abstract Algebra, Linear Algebra, Complex Variables, Calculus, Real Analysis, Complex Analysis, Geometry, Probaility & Statistics
 
 
 [1]: https://github.com/KonerK/Computer-Science-Open-Degree
