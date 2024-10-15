@@ -1,6 +1,6 @@
 # A Journey of Mathematics
 
-There’s no other way to say it: I really, really, really like math. This repository documents my journey into self-studying various math topics and books. It aligns closely with my ambition to develop my computer science skills, which you can explore further in [this][1] repository. You’ll find that the structure, and motivation, behind this repository is very similar. 
+There’s no other way to say it: I really, really, really like math. This repository documents my journey into self-studying various math topics and books. It aligns closely with my ambition to develop my computer science skills, which you can explore further in [this][1] repository. You will find that the structure, and motivation, behind this repository is very similar. 
 
 
 # I - The Fundamentals
